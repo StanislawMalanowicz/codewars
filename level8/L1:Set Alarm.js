@@ -1,0 +1,8 @@
+// instruction here:
+
+//solution:
+
+
+function setAlarm(employed, vacation) {
+    return employed && !vacation;
+}
